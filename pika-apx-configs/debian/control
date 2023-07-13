@@ -1,0 +1,15 @@
+Source: pika-apx-configs
+Section: devel
+Priority: extra
+Maintainer: Mirko Brombin <send@mirko.pm>
+Uploaders: Mirko Brombin <send@mirko.pm>
+Build-Depends: debhelper (>= 9),
+Standards-Version: 3.9.6
+
+Package: pika-apx-configs
+Architecture: all
+Depends: ${shlibs:Depends},
+         ${misc:Depends},
+         apx
+Built-Using: ${misc:Built-Using}
+Description: Pika default stacks for Apx.
