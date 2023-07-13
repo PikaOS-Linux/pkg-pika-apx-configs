@@ -1,5 +1,5 @@
-name: ubuntu lts
-base: ubuntu:latest
+name: debian stable
+base: debian:stable
 packages: []
 pkgmanager: apt
 builtin: true

@@ -1,0 +1,13 @@
+name: swupd
+needsudo: true
+cmdautoremove: bundle-remove --orphans
+cmdclean: clean
+cmdinstall: bundle-add
+cmdlist: bundle-list --status
+cmdpurge: bundle-remove -R
+cmdremove: bundle-remove
+cmdsearch: search
+cmdshow: bundle-info
+cmdupdate: check-update
+cmdupgrade: update
+builtin: true
