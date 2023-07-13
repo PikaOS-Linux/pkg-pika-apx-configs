@@ -1,4 +1,4 @@
-name: arch linux
+name: arch-linux
 base: docker.io/library/archlinux:latest
 packages: []
 pkgmanager: pacman

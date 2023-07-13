@@ -1,4 +1,4 @@
-name: debian stable
+name: debian-stable
 base: debian:stable
 packages: []
 pkgmanager: apt

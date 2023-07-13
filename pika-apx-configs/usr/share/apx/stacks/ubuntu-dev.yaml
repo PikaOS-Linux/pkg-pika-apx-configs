@@ -1,4 +1,4 @@
-name: ubuntu latest
+name: ubuntu-latest
 base: ubuntu:rolling
 packages: []
 pkgmanager: apt

@@ -1,4 +1,4 @@
-name: debian sid
+name: debian-sid
 base: debian:sid
 packages: []
 pkgmanager: apt

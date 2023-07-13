@@ -1,4 +1,4 @@
-name: ubuntu lts
+name: ubuntu-lts
 base: ubuntu:latest
 packages: []
 pkgmanager: apt

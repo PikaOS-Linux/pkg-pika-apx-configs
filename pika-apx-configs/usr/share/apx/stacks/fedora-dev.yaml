@@ -1,4 +1,4 @@
-name: fedora rawhide
+name: fedora-rawhide
 base: fedora:latest
 packages: []
 pkgmanager: dnf

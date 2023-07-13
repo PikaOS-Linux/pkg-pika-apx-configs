@@ -1,4 +1,4 @@
-name: fedora workstation
+name: fedora-workstation
 base: fedora:latest
 packages: []
 pkgmanager: dnf

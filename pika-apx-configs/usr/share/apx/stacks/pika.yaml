@@ -1,4 +1,4 @@
-name: pika os
+name: pika-os
 base: ghcr.io/pikaos-linux/pika-package-container:latest
 packages: []
 pkgmanager: apt

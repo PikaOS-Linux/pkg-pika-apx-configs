@@ -1,0 +1,5 @@
+name: clear-linux
+base: clearlinux:latest
+packages: []
+pkgmanager: swupd
+builtin: true
