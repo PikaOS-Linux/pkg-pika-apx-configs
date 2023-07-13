@@ -1,5 +1,5 @@
 name: pika-os
-base: ghcr.io/pikaos-linux/pika-package-container:latest
+base: ghcr.io/pikaos-linux/pika-distrobox-container:latest
 packages: []
 pkgmanager: apt
 builtin: true
