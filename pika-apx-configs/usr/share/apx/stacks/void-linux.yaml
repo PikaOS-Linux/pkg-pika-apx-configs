@@ -1,5 +1,0 @@
-name: void-linux
-base: ghcr.io/void-linux/void-linux:latest-full-x86_64
-packages: []
-pkgmanager: xbps
-builtin: true
