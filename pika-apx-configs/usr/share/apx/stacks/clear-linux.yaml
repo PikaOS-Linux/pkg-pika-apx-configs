@@ -1,5 +1,5 @@
 name: clear-linux
-base: clearlinux:latest
+base: docker.io/library/clearlinux:latest
 packages: []
 pkgmanager: swupd
 builtin: true
