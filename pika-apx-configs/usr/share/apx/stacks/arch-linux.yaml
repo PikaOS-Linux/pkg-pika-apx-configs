@@ -1,5 +1,5 @@
 name: arch-linux
-base: docker.io/library/archlinux:latest
+base: ghcr.io/pikaos-linux/archlinux-yay:latest
 packages: []
-pkgmanager: pacman
+pkgmanager: yay
 builtin: true
